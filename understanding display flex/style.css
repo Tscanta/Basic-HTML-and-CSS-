@@ -1,0 +1,46 @@
+.box{
+    width:150px;
+    height:150px;
+    font-size: 8em;
+    text-align: center;
+    border-radius: 15px;
+}
+
+#box1{
+    background-color: hsl(0, 97%, 76%);
+}
+
+#box2{
+    background-color: rgb(136, 243, 136);
+}
+
+#box3{
+    background-color: rgb(161, 161, 255);
+}
+
+#box4{
+    background-color: rgb(237, 195, 116);
+}
+
+#box5{
+    background-color: rgb(255, 161, 161);
+}
+#box6{
+    background-color: rgb(136, 243, 136);
+}
+#box7{
+    background-color: rgb(161, 161, 255);
+}
+#box8{
+    background-color: rgb(237, 195, 116);
+}
+
+
+.container{
+    border: 10px solid black;
+    height: 90vh;
+    display: flex;
+    align-items: baseline;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
